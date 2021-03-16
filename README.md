@@ -1,4 +1,5 @@
-# Browser-Info-Passing
+# NHA-Browser-Info-Passing-Latest
+Unique Browser Info Methods!
 
 
 
