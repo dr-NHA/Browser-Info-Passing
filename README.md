@@ -1,7 +1,7 @@
 # Browser-Info-Passing
 Grab Browser Usernames And Passwords
 
-# Warning All Links Have A Click Counter To Check How Many People Have Used The Link
+# Warning Links Below Have A Click Counter To Check How Many People Have Used The Link
 
 Youtube Link :  https://url-x.it/yh56JTB
 
