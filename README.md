@@ -1,9 +1,11 @@
 # Browser-Info-Passing
+# Please Make Sure Your Not Viewing The Main Branch As This Isnt Updated!
 
 # Warning Links Below Have A Click Counter To Check How Many People Have Used The Link
 
 
 Youtube Link :  https://url-x.it/yh56JTB
+
 Discord Community Link: https://discord.gg/FehYU7ATRq
 
 
