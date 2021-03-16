@@ -1,10 +1,15 @@
 # Browser-Info-Passing
 
+
+
 # Warning Links Below Have A Click Counter To Check How Many People Have Used The Link
+Youtube Link:
+https://url-x.it/yh56JTB
+
+Discord Community Link:
+https://url-x.it/JamA2LH
 
 
-Youtube Link :  https://url-x.it/yh56JTB
-Discord Community Link: https://discord.gg/FehYU7ATRq
 
 
 # Info , Use & Conditions:
