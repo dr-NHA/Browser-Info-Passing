@@ -1,6 +1,11 @@
 # Browser-Info-Passing
 Grab Browser Usernames And Passwords
 
+# Warning All Links Have A Click Counter To Check How Many People Have Used The Link
+
+Youtube Link :  https://url-x.it/yh56JTB
+
+
 Very Simple C# Browser Profile/ Account Infomation Collection Tool,
 
 Can Find Almost All Usernames And Passwords That Are Stored In Plain Text,
