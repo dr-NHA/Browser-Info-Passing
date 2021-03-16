@@ -1,0 +1,10 @@
+C:\Users\there\source\repos\GetFucked\GetFucked\bin\Debug\GetFucked.exe.config
+C:\Users\there\source\repos\GetFucked\GetFucked\bin\Debug\GetFucked.exe
+C:\Users\there\source\repos\GetFucked\GetFucked\bin\Debug\GetFucked.pdb
+C:\Users\there\source\repos\GetFucked\GetFucked\obj\Debug\GetFucked.csprojAssemblyReference.cache
+C:\Users\there\source\repos\GetFucked\GetFucked\obj\Debug\GetFucked.Properties.Resources.resources
+C:\Users\there\source\repos\GetFucked\GetFucked\obj\Debug\GetFucked.csproj.GenerateResource.cache
+C:\Users\there\source\repos\GetFucked\GetFucked\obj\Debug\GetFucked.csproj.CoreCompileInputs.cache
+C:\Users\there\source\repos\GetFucked\GetFucked\obj\Debug\GetFucked.exe
+C:\Users\there\source\repos\GetFucked\GetFucked\obj\Debug\GetFucked.pdb
+C:\Users\there\source\repos\GetFucked\GetFucked\obj\Debug\GetFucked.UserInfoPassing.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHA_Browser_Info_Passing", "GetFucked\NHA_Browser_Info_Passing.csproj", "{AB76EE77-33D3-4E8C-BBF7-5574C0965DD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB76EE77-33D3-4E8C-BBF7-5574C0965DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB76EE77-33D3-4E8C-BBF7-5574C0965DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB76EE77-33D3-4E8C-BBF7-5574C0965DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB76EE77-33D3-4E8C-BBF7-5574C0965DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9157ECC-3EC6-49EF-A8BF-A04FA4BE882A}
+	EndGlobalSection
+EndGlobal
