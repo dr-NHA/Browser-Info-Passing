@@ -186,16 +186,6 @@ return rety;
 }
 
 
-bool StartsWithTrueChar(string input){
-bool retu =false;
-string lettice = "abcdefghijklmnopqrstuvwzyz1234567890";
-foreach(string letter in lettice.Split()){
-if(input.StartsWith(letter)){
-retu =true;break;
-}}
-return retu;
-}
-
 private void UserInfoPassing_Load(object sender, EventArgs e){
             List<string> TextS = new List<string>() {"",
                 "{TESTING} Web Browser Infomation Grabber",
