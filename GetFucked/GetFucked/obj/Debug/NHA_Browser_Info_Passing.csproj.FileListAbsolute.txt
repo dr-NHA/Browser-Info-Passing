@@ -1,9 +1,0 @@
-C:\Users\there\source\repos\GetFucked\GetFucked\bin\Debug\GetFucked.exe.config
-C:\Users\there\source\repos\GetFucked\GetFucked\bin\Debug\GetFucked.exe
-C:\Users\there\source\repos\GetFucked\GetFucked\bin\Debug\GetFucked.pdb
-C:\Users\there\source\repos\GetFucked\GetFucked\obj\Debug\NHA_Browser_Info_Passing.BrowserInfPassing.resources
-C:\Users\there\source\repos\GetFucked\GetFucked\obj\Debug\GetFucked.Properties.Resources.resources
-C:\Users\there\source\repos\GetFucked\GetFucked\obj\Debug\NHA_Browser_Info_Passing.csproj.GenerateResource.cache
-C:\Users\there\source\repos\GetFucked\GetFucked\obj\Debug\NHA_Browser_Info_Passing.csproj.CoreCompileInputs.cache
-C:\Users\there\source\repos\GetFucked\GetFucked\obj\Debug\GetFucked.exe
-C:\Users\there\source\repos\GetFucked\GetFucked\obj\Debug\GetFucked.pdb
