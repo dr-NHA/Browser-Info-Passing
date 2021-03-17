@@ -12,14 +12,14 @@ https://url-x.it/JamA2LH
 
 
 # Compatible Exploits
-Grab Chrome Emails And Passwords
-Grab Opera Emails Attempt Grab Passwords
-Grab Opera gx Emails Attempt Grab Passwords
-Grab Fire Fox Emails Attempt Grab Passwords
+ Grab Chrome Emails And Passwords       
+ Grab Opera Emails Attempt Grab Passwords    
+ Grab Opera gx Emails Attempt Grab Passwords    
+ Grab Fire Fox Emails Attempt Grab Passwords      
 
-Grab Users Xbox Live Account And Infomation
-
-Grab Users Emails
+ Grab Users Xbox Live Account And Infomation     
+  
+ Grab Users Emails    
 
 
 
