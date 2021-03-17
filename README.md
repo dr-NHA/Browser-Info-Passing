@@ -11,7 +11,7 @@ Discord Community Link:
 https://url-x.it/JamA2LH
 
 
-#Compatible Exploits
+# Compatible Exploits
 Grab Chrome Emails And Passwords
 Grab Opera Emails Attempt Grab Passwords
 Grab Opera gx Emails Attempt Grab Passwords
