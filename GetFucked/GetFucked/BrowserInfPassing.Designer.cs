@@ -1,4 +1,4 @@
-﻿namespace NHA_Browser_Info_Passing
+namespace NHA_Browser_Info_Passing
 {
     partial class BrowserInfPassing
     {
@@ -31,6 +31,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BrowserInfPassing));
             this.GetPasswordsFromChrome = new System.Windows.Forms.Button();
             this.InfoBox = new System.Windows.Forms.TextBox();
+            this.KnownDomains = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // GetPasswordsFromChrome
@@ -38,7 +39,7 @@
             this.GetPasswordsFromChrome.Dock = System.Windows.Forms.DockStyle.Top;
             this.GetPasswordsFromChrome.Location = new System.Drawing.Point(0, 0);
             this.GetPasswordsFromChrome.Name = "GetPasswordsFromChrome";
-            this.GetPasswordsFromChrome.Size = new System.Drawing.Size(800, 54);
+            this.GetPasswordsFromChrome.Size = new System.Drawing.Size(742, 54);
             this.GetPasswordsFromChrome.TabIndex = 0;
             this.GetPasswordsFromChrome.Text = "Get User Infomation From Web Browsers";
             this.GetPasswordsFromChrome.UseVisualStyleBackColor = true;
@@ -51,17 +52,29 @@
             this.InfoBox.Multiline = true;
             this.InfoBox.Name = "InfoBox";
             this.InfoBox.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.InfoBox.Size = new System.Drawing.Size(800, 396);
+            this.InfoBox.Size = new System.Drawing.Size(742, 396);
             this.InfoBox.TabIndex = 1;
             this.InfoBox.WordWrap = false;
+            // 
+            // KnownDomains
+            // 
+            this.KnownDomains.Dock = System.Windows.Forms.DockStyle.Right;
+            this.KnownDomains.Location = new System.Drawing.Point(742, 0);
+            this.KnownDomains.Multiline = true;
+            this.KnownDomains.Name = "KnownDomains";
+            this.KnownDomains.ScrollBars = System.Windows.Forms.ScrollBars.Both;
+            this.KnownDomains.Size = new System.Drawing.Size(182, 450);
+            this.KnownDomains.TabIndex = 2;
+            this.KnownDomains.WordWrap = false;
             // 
             // BrowserInfPassing
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(924, 450);
             this.Controls.Add(this.InfoBox);
             this.Controls.Add(this.GetPasswordsFromChrome);
+            this.Controls.Add(this.KnownDomains);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MinimumSize = new System.Drawing.Size(200, 200);
             this.Name = "BrowserInfPassing";
@@ -76,6 +89,7 @@
 
         private System.Windows.Forms.Button GetPasswordsFromChrome;
         private System.Windows.Forms.TextBox InfoBox;
+        private System.Windows.Forms.TextBox KnownDomains;
     }
 }
 
